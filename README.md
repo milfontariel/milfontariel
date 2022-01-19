@@ -1,16 +1,13 @@
 
 
-<h1> Hello, there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+<h2> Hello, There! &ensp;<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h2>
 
+<p align='left'>
+ My name is Ariel and no, i'm not the mermaid.
 </p>
-<h3> Hi! My name is Ariel Milfont and no, i'm not the mermaid.
-</h3>
+
 <h2> About Me </h2>
-<img width="300px" align="right" alt="Owl" src="https://data.whicdn.com/images/244793515/original.gif" />
-<br/>
-
-
+<img width="200px" align="right" alt="Owl" src="https://data.whicdn.com/images/244793515/original.gif" />
 
 - 🌱 I’m currently learning NodeJS 
 
