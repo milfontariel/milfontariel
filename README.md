@@ -3,8 +3,6 @@
 <h1> Hello, there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=milfontariel.milfontariel)
-
 </p>
 <h3> Hi! My name is Ariel Milfont and no, i'm not the mermaid.
 </h3>
