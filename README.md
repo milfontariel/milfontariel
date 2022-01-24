@@ -41,6 +41,6 @@
 <br/>
 <br/>
 
-<img width="100%" align='center' src="https://ptanime.com/wp-content/uploads/2016/10/Cowboy-Bebop-spike-clip-v2.gif">
+<img width="100%" align='center' src="https://s10.gifyu.com/images/cowboy.gif">
 
 <h2 align='right'>See you, space cowboy...</h2>
