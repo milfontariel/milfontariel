@@ -9,9 +9,9 @@
 <h2> About Me </h2>
 <img width="200px" align="right" alt="Owl" src="https://data.whicdn.com/images/244793515/original.gif" />
 
-- 🌱 I’m currently learning NodeJS 
+- I’m currently learning NodeJS 
 
-- 💬 Talk to me about music, games, movies... in fact, anything.
+- Talk to me about music, games, movies... in fact, anything.
 
 
 <h1> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>
