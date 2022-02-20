@@ -1,6 +1,6 @@
 
 
-<h2> What's up! &ensp;<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h2>
+<h2> What's up!</h2>
 
 <p align='left'>
  My name is Ariel and no, i'm not the mermaid.
