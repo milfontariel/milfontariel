@@ -23,16 +23,13 @@
 
 
 <br/>
-<h1> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h1>
-<a href = 'https://www.linkedin.com/in/arielmilfont'> 
-<img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
-</a>&ensp;&ensp;
-<a href = 'https://www.github.com/milfontariel'> 
-<img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
-</a> 
 
-<br/>
-<br/>
+<h1> Connect with me
+ <a href = 'https://www.linkedin.com/in/arielmilfont'> 
+  <img width = '25px' align= 'bottom' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
+ </a>
+</h1>
+
 
 <img width="100%" align='center' src="https://s10.gifyu.com/images/cowboy.gif">
 
