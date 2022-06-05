@@ -1,15 +1,27 @@
 
 
-<h2> What's up!</h2>
+<h2> Fala aí!</h2>
 
 <p align='left'>
- My name is Ariel and no, i'm not the mermaid.
+ Sim, meu nome é Ariel. E não, eu não sou a sereia.
+ <br/>
+ ...sim, eu uso o sabão Ariel.
+ <br/>
+ <br/>
+ Meu maior prazer é curtir um filmezinho, e para não fugir do tema: eu nunca assisti 'A Pequena Sereia'.
+ <br/>
+ <br/>
+ E sobre a programação... Bem, me descobri aqui. Onde mais podemos sentir que somos capazes de fazer qualquer coisa? 
 </p>
 
 
-<h1> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>
+<h1> Skills 
 </h1> 
 <a href= https://github.com/milfontariel?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>&ensp;
+<a href= https://github.com/?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>&ensp;
+<a href= https://github.com/?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>&ensp;
+<a href= https://github.com/?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>&ensp;
+<a href= https://github.com/?tab=repositories&q=&type=&language=jest&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'> </a>&ensp;
 <a href= https://github.com/milfontariel?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>&ensp;
 <a href= https://github.com/milfontariel?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>&ensp;
 <a href= https://github.com/milfontariel?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>&ensp;
@@ -20,6 +32,7 @@
 <a href= https://github.com/?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>&ensp;
 <a href= https://github.com/?tab=repositories&q=&type=&language=xd&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/xd.svg'> </a>&ensp;
 <a href= https://github.com/?tab=repositories&q=&type=&language=figma&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>&ensp;
+
 
 
 <br/>
