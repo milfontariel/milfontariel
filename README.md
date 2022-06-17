@@ -7,7 +7,10 @@
 <h2 align="center">Skills</h2>
 
 ###
-<h3 align="left">Linguagens & Frameworks</h3>
+<h4 align="left">Linguagens & Frameworks</h4>
+
+###
+<img align="right" height="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/528a91da-d3e6-41bb-98c4-f300a001b3d8/d9zkbhj-fa635518-3f70-492e-a828-3de0d8aee1f1.png/v1/fill/w_591,h_813,strp/praise_the_sun_by_runxforest_d9zkbhj-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODEzIiwicGF0aCI6IlwvZlwvNTI4YTkxZGEtZDNlNi00MWJiLTk4YzQtZjMwMGEwMDFiM2Q4XC9kOXprYmhqLWZhNjM1NTE4LTNmNzAtNDkyZS1hODI4LTNkZTBkOGFlZTFmMS5wbmciLCJ3aWR0aCI6Ijw9NTkxIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.b6E48NL7cSLYufsSJ5CpYEQB6xr0Ldj8GtF4FhLGH6s"  />
 
 ###
 <div align="left">
@@ -28,7 +31,7 @@
 </div>
 
 ###
-<h3 align="left">Ferramentas</h3>
+<h4 align="left">Ferramentas</h4>
 
 ###
 <div align="left">
@@ -42,7 +45,7 @@
 </div>
 
 ###
-<h3 align="left">Bancos de Dados</h3>
+<h4 align="left">Bancos de Dados</h4>
 
 ###
 <div align="left">
@@ -52,7 +55,7 @@
 </div>
 
 ###
-<h3 align="left">Softwares</h3>
+<h4 align="left">Softwares</h4>
 
 ###
 <div align="left">
