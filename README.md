@@ -4,6 +4,19 @@
 <h4 align="left">Sim, meu nome é Ariel. E não, eu não sou a sereia.<br>...sim, eu uso o sabão Ariel.<br><br>Meu maior prazer é curtir um filmezinho, e para não fugir do tema: eu nunca assisti 'A Pequena Sereia'.<br><br>E sobre a programação... Bem, me descobri aqui. Onde mais podemos sentir que somos capazes de fazer qualquer coisa?</h4>
 
 ###
+<h2 align="center">Redes Sociais</h2>
+
+###
+<div align="center">
+  <a href="https://www.linkedin.com/in/arielmilfont/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/arielmilfont/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+</div>
+
+###
 <h2 align="center">Skills</h2>
 
 ###
@@ -76,24 +89,11 @@
 </div>
 
 ###
-<h2 align="center">Redes Sociais</h2>
-
-###
-<div align="center">
-  <a href="https://www.linkedin.com/in/arielmilfont/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/arielmilfont/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
-</div>
-
-###
 <div align="left">
   <img width="100%" src="https://camo.githubusercontent.com/06a4ff08ce8f87478ed35e51bffe314fd9d40acbd2a07a7b1ca6a689c6895cc8/68747470733a2f2f7331302e67696679752e636f6d2f696d616765732f636f77626f792e676966"  />
 </div>
 
 ###
-<h4 align="left">See you, space cowboy...</h4>
+<h3 align="left">See you, space cowboy...</h3>
 
 ###
