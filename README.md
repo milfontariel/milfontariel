@@ -1,7 +1,7 @@
 <h2 align="left">Fala aí! Comé que tá?</h2>
 
 ###
-<h4 align="left">Sim, meu nome é Ariel. É, é igual o da sereia.<br>...sim, eu uso o sabão Ariel.<br><br>Um dos meus hobbys é curtir um filmezinho, e para reforçar: não, eu nunca assisti 'A Pequena Sereia'.<br><br>E sobre a programação... Bem, me descobri aqui. Onde mais podemos sentir que somos capazes de fazer qualquer coisa?</h4>
+<h4 align="left">Sim, meu nome é Ariel. É, é igual o da sereia.<br>...sim, eu uso o sabão Ariel.<br><br>Sou aspirante a cinéfilo, e não, eu nunca assisti 'A Pequena Sereia'.<br><br>E sobre a programação... Bem, me descobri aqui. Onde mais podemos sentir que somos capazes de fazer qualquer coisa?</h4>
 
 ###
 <h2 align="center">Redes Sociais</h2>
