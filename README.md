@@ -1,4 +1,4 @@
-<h2 align="left">Fala aí!</h2>
+<h2 align="left">Fala aí! Comé que tá?</h2>
 
 ###
 <h4 align="left">Sim, meu nome é Ariel. É, é igual o da sereia.<br>...sim, eu uso o sabão Ariel.<br><br>Um dos meus hobbys é curtir um filmezinho, e para reforçar: não, eu nunca assisti 'A Pequena Sereia'.<br><br>E sobre a programação... Bem, me descobri aqui. Onde mais podemos sentir que somos capazes de fazer qualquer coisa?</h4>
@@ -23,11 +23,16 @@
 <h4 align="left">Linguagens & Frameworks</h4>
 
 ###
+
 <img align="right" height="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/528a91da-d3e6-41bb-98c4-f300a001b3d8/d9zkbhj-fa635518-3f70-492e-a828-3de0d8aee1f1.png/v1/fill/w_591,h_813,strp/praise_the_sun_by_runxforest_d9zkbhj-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODEzIiwicGF0aCI6IlwvZlwvNTI4YTkxZGEtZDNlNi00MWJiLTk4YzQtZjMwMGEwMDFiM2Q4XC9kOXprYmhqLWZhNjM1NTE4LTNmNzAtNDkyZS1hODI4LTNkZTBkOGFlZTFmMS5wbmciLCJ3aWR0aCI6Ijw9NTkxIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.b6E48NL7cSLYufsSJ5CpYEQB6xr0Ldj8GtF4FhLGH6s"  />
 
 ###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" title="Javascript" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" title="Java" alt="java logo"  />
+  <img src="https://www.cdnlogo.com/logos/p/79/php.svg" height="40" width="52" title="PHP" alt="php logo"  />
+  <img src="https://www.cdnlogo.com/logos/d/66/dart.svg" height="40" width="52" title="Dart" alt="dart logo"  />
+  <img src="https://www.cdnlogo.com/logos/f/30/flutter.svg" height="40" width="52" title="Flutter" alt="flutter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" title="React" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" title="NodeJS" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" title="Typescript" alt="typescript logo"  />
@@ -55,6 +60,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" title="NPM" alt="npm logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" width="52" title="Slack" alt="slack logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" title="Trello" alt="trello logo"  />
+  <img src="https://www.cdnlogo.com/logos/j/28/jira.svg" height="40" width="52" title="Jira" alt="jira logo"  />
+  <img src="https://www.cdnlogo.com/logos/g/64/grafana.svg" height="40" width="52" title="Grafana" alt="grafana logo"  />
 </div>
 
 ###
@@ -65,6 +72,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" title="PostgreSQL" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" width="52" title="MongoDB" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" height="40" width="52" title="Redis" alt="redis logo"  />
+  <img src="https://www.cdnlogo.com/logos/e/64/elasticsearch.svg" height="40" width="52" title="ElasticSearch" alt="elasticsearch logo"  />
 </div>
 
 ###
@@ -77,23 +85,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" width="52" title="Illustrator" alt="illustrator logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" width="52" title="Adobe XD" alt="xd logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" title="Figma" alt="figma logo"  />
+  <img src="https://www.cdnlogo.com/logos/p/20/postman.svg" height="40" width="52" title="Postman" alt="postman logo"  />
 </div>
 
-###
-<h2 align="center">Estatísticas</h2>
 
 ###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=pt-br&hide_border=true&username=milfontariel" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=apprentice&hide_border=true&username=milfontariel" height="150" alt="languages graph"  />
-</div>
+<h2 align="center">Experiência</h2>
 
-###
-<div align="left">
-  <img width="100%" src="https://camo.githubusercontent.com/06a4ff08ce8f87478ed35e51bffe314fd9d40acbd2a07a7b1ca6a689c6895cc8/68747470733a2f2f7331302e67696679752e636f6d2f696d616765732f636f77626f792e676966"  />
-</div>
+<h4 align="left">Abaixo você encontrará minha experiência de trabalho mais recente:</h4>
 
-###
-<h3 align="left">See you, space cowboy...</h3>
+[<img align="left" height="94px" width="94px" alt="Effecti" src="https://i.ibb.co/pJt9Q0X/simbolo-effecti-cor-RGB.png"/>](https://www.effecti.com.br)
+
+**Desenvolvedor Full-Stack** \
+**Effecti** • [Módulo Encontrar](https://www.effecti.com.br/busca-editais/) \
+Linguagens & Tecnologias: `Java`, `PHP`, `Javascript`, `VueJS`, `Flutter` \
+<br/>
+<br/>
+
+Me encontra lá no [LinkedIn](https://www.linkedin.com/in/arielmilfont/) para uma descrição mais detalhada da minha experiência e educação.
+
 
 ###
