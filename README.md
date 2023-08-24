@@ -30,7 +30,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" title="Javascript" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" title="Java" alt="java logo"  />
-  <img src="https://www.cdnlogo.com/logos/p/79/php.svg" height="40" width="52" title="PHP" alt="php logo"  />
+  <img src="https://www.cdnlogo.com/logos/p/44/php.svg" height="40" width="52" title="PHP" alt="php logo"  />
   <img src="https://www.cdnlogo.com/logos/d/66/dart.svg" height="40" width="52" title="Dart" alt="dart logo"  />
   <img src="https://www.cdnlogo.com/logos/f/30/flutter.svg" height="40" width="52" title="Flutter" alt="flutter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" title="React" alt="react logo"  />
